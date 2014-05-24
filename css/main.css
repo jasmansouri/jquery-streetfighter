@@ -1,10 +1,16 @@
 body {
 background-color: black;
+background-image: url('../images/sf_logo.gif');
+background-position:top;
+background-repeat:no-repeat;
 }
 
 .main {
-background-color: white;
-margin-top:110px;
+background-image: url('../images/graffiti.gif');
+background-repeat:no-repeat;
+background-size:cover;
+border: 2px solid red;
+margin-top:145px;
 padding-left: 100px;
 min-width: 1200px;
 height: 500px;
